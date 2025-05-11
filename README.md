@@ -38,9 +38,5 @@ This project showcases a wide range of Power BI capabilities:
 - Geo maps for regional analysis
 - Cards for KPIs
 
-### ☁️ Power BI Service (Optional)
-- Published to Power BI Service for online access and sharing
-- Dashboard shared via workspace for collaboration
-
 ---
 
