@@ -4,9 +4,8 @@ This repository contains a Power BI dashboard project built using the **Adventur
 ## 🚀 Project Overview
 AdventureWorks is a fictional bicycle manufacturing company commonly used for demonstrating data analytics capabilities. In this project, I used the dataset to build a comprehensive business intelligence dashboard covering key business metrics.
 <img width="2864" height="1618" alt="image" src="https://github.com/user-attachments/assets/7709d30d-a492-4d60-8879-bc1e12143393" />
-
-
-
+<img width="2820" height="1578" alt="image" src="https://github.com/user-attachments/assets/e4d1dd31-c837-4aca-af1f-35c44f323c33" />
+<img width="2796" height="1562" alt="image" src="https://github.com/user-attachments/assets/8d94dde0-c339-451f-b282-f046bbf4e652" />
 
 ### 🔍 Key Business Insights
 - 📦 **Order Performance** – Analyze order volumes by product, category, subcategory, and region.
